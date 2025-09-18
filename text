@@ -1,0 +1,2 @@
+echo "Hello GitHub" > readme.txt
+git add readme.txt
