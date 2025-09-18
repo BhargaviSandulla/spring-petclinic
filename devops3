@@ -1,0 +1,3 @@
+Use git fetch
+•	When you only want to check for updates without changing your working branch.
+•	Safe, nothing changes in your files.
